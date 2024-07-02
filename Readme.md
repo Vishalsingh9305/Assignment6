@@ -1,4 +1,4 @@
-JavaScript Assignments
+## JavaScript Assignments :-
 This repository contains JavaScript programs for various assignments, each designed to perform specific tasks.
 
 Assignments :-
